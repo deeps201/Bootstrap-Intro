@@ -55,10 +55,40 @@
   
   
   
-  ###### Use the .flex-fill class to divide them into widths equal to their content while taking up all available horizontal space.
+  ##### Use the .flex-fill class to divide them into widths equal to their content while taking up all available horizontal space.
   
   
          *  .flex-fill
          *  .flex-sm-fill
          *  .flex-md-fill
          *  .flex-lg-fill
+# IMAGES
+
+* .img-fluid this applies max-width: 100%; and height: auto.
+          
+         <img src="..." class="img-fluid" alt="...">
+          
+ * Aligning Images         
+          
+          <img src="..." class="rounded float-start" alt="...">
+          <img src="..." class="rounded float-end" alt="...">
+          
+ # FIGURE 
+ 
+To display a content—like an image with an caption, consider using a <figure>.
+          
+         <figure class="figure">
+         <img src="..." class="figure-img img-fluid rounded" alt="...">
+         <figcaption class="figure-caption">captions for an image</figcaption>
+         </figure>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
