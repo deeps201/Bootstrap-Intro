@@ -92,29 +92,25 @@
                   
   #### SIDES
           
-                  * t - for classes that set margin-top or padding-top
+          1) t - for classes that set margin-top or padding-top
 
-                  + b - for classes that set margin-bottom or padding-bottom
+          2) b - for classes that set margin-bottom or padding-bottom
 
-                  + s - (start) for classes that set margin-left or padding-left 
+          3) s - (start) for classes that set margin-left or padding-left 
 
-                  + e - (end) for classes that set margin-right or padding-right
+          4) e - (end) for classes that set margin-right or padding-right
 
-                  + x - X-Axis
+          5)  x - X-Axis
 
-                  + y - Y-Axis
+          6)  y - Y-Axis
 
 
           
           
-       
-       
-       
-       
-       
-       
+ # FIFURES
        
     To display a content—like an image with an caption, consider using a <figure>.
+    
           
          <figure class="figure">
          <img src= "..." class="figure-img img-fluid rounded">
