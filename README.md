@@ -78,12 +78,11 @@
    To display a content—like an image with an caption, consider using a <figure>.
           
          <figure class="figure">
-         <img src="..." class="figure-img img-fluid rounded" alt="...">
+         <img src= "..." class="figure-img img-fluid rounded">
          <figcaption class="figure-caption">captions for an image</figcaption>
          </figure>
           
-     
-       
+          
 # INPUT GROUP  
           
   It can extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.
