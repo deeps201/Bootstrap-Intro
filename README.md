@@ -89,24 +89,30 @@
           
           
           <div class="input-group ">
-            <span class="input-group-text" id="@">
-            <input type="text" class="form-control" placeholder="" aria-describedby="@">
+            <span class="input-group-text" id="">
+            <input type="text" class="form-control" placeholder="" aria-describedby="">
           </div>
                   
                     
 # MARGIN AND PADDING
                   
         *  m - for classes that set margin
+                    
         *  p - for classes that set padding
                   
   * SIDES
           
-        *  t - ```for classes that set margin-top or padding-top```
-        *  b - for classes that set margin-bottom or padding-bottom
-        *  s - (start) for classes that set margin-left or padding-left 
-        *  e - (end) for classes that set margin-right or padding-right 
-        *  x - for classes that set both *-left and *-right
-        *  y - for classes that set both *-top and *-bottom
+        +  t - ```for classes that set margin-top or padding-top```
+                    
+        +  b - for classes that set margin-bottom or padding-bottom
+                    
+        +  s - (start) for classes that set margin-left or padding-left 
+                    
+        +  e - (end) for classes that set margin-right or padding-right
+                    
+        +  x - X-Axis
+                    
+        +  y - Y-Axis
 
 
           
