@@ -87,22 +87,22 @@
                     
 # MARGIN AND PADDING
                   
-        * m for classes that set margin                
-        * p for classes that set padding
+        1) m for classes that set margin                
+        2) p for classes that set padding
                   
-  * SIDES
+  #### SIDES
           
-        + t - ```for classes that set margin-top or padding-top```
-                    
-        + b - for classes that set margin-bottom or padding-bottom
-                    
-        + s - (start) for classes that set margin-left or padding-left 
-                    
-        + e - (end) for classes that set margin-right or padding-right
-                    
-        + x - X-Axis
-                    
-        + y - Y-Axis
+                  * t - for classes that set margin-top or padding-top
+
+                  + b - for classes that set margin-bottom or padding-bottom
+
+                  + s - (start) for classes that set margin-left or padding-left 
+
+                  + e - (end) for classes that set margin-right or padding-right
+
+                  + x - X-Axis
+
+                  + y - Y-Axis
 
 
           
