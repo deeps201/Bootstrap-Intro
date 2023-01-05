@@ -87,8 +87,8 @@
                     
 # MARGIN AND PADDING
                   
-        * m - for classes that set margin                
-        * p - for classes that set padding
+        * m for classes that set margin                
+        * p for classes that set padding
                   
   * SIDES
           
