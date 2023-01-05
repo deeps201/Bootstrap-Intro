@@ -28,6 +28,21 @@
 * FLUID CONTAINERS
           
           <div class="container-fluid"></div>
+          
+ # FLEXBOX
+   
+     <div class="d-flex p-2"></div>
+     
+ Note:display utilities to create a flexbox container and transform direct children elements into flex items.
+ 
+ * FLEX DIRECTIONS
+ 
+          <div class="d-flex justify-content-start">...</div>
+          <div class="d-flex justify-content-end">...</div>
+          <div class="d-flex justify-content-center">...</div>
+ 
+ 
+  Note:Use justify-content utilities on flexbox containers to change the alignment of flex items on the main axis.
 
  
  
