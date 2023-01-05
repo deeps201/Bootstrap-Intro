@@ -72,17 +72,8 @@
           
           <img src="..." class="rounded float-start" alt="...">
           <img src="..." class="rounded float-end" alt="...">
-          
- # FIGURE 
- 
-   To display a content—like an image with an caption, consider using a <figure>.
-          
-         <figure class="figure">
-         <img src= "..." class="figure-img img-fluid rounded">
-         <figcaption class="figure-caption">captions for an image</figcaption>
-         </figure>
-          
-          
+     
+      
 # INPUT GROUP  
           
   It can extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.
@@ -96,8 +87,7 @@
                     
 # MARGIN AND PADDING
                   
-        *  m - for classes that set margin
-                    
+        *  m - for classes that set margin                
         *  p - for classes that set padding
                   
   * SIDES
@@ -117,7 +107,25 @@
 
           
           
+       
+       
+       
+       
+       
+       
+       
+    To display a content—like an image with an caption, consider using a <figure>.
           
+         <figure class="figure">
+         <img src= "..." class="figure-img img-fluid rounded">
+         <figcaption class="figure-caption">captions for an image</figcaption>
+         </figure>
+              
+       
+       
+       
+       
+   
           
           
           
