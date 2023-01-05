@@ -13,109 +13,31 @@
           </html>
          
  
- # BREAKPOINTS
- 
- * Small-sm
- * Medium-md
- * Large-lg
+# Navbar!
 
-# CONTAINERS
+* Class: navbar
 
-          <div class="container-sm"></div>
-          <div class="container-md"></div>
-          <div class="container-lg"></div>
-          
-* FLUID CONTAINERS
-          
-          <div class="container-fluid"></div>
-          
- # FLEXBOX
-   
-     <div class="d-flex p-2"></div>
-     
- Note:Display utilities to create a flexbox container and transform direct children elements into flex items.
- 
- * FLEX DIRECTIONS
- 
-          <div class="d-flex justify-content-start">...</div>
-          <div class="d-flex justify-content-end">...</div>
-          <div class="d-flex justify-content-center">...</div>
- 
-  Note:Use justify-content utilities on flexbox containers to change the alignment of flex items on the main axis.
+* To make it expandable in large window size: expand-1g (which is breakpoint)
 
- 
- * ALIGN ITEMS
- 
-          <div class="d-flex align-items-start">...</div>
-          <div class="d-flex align-items-end">...</div>
-          <div class="d-flex align-items-center">...</div>
-  
-  Note:Use align-items utilities on flexbox containers to change the alignment of flex items on the cross axis.
-  
-  
-  
-  
-  ##### Use the .flex-fill class to divide them into widths equal to their content while taking up all available horizontal space.
-  
-  
-         *  .flex-fill
-         *  .flex-sm-fill
-         *  .flex-md-fill
-         *  .flex-lg-fill
-# IMAGES
+3)To add color: bg-dark(dark is one among the primary color in color class)
 
-* .img-fluid this applies max-width: 100%; and height: auto.
-          
-         <img src="..." class="img-fluid" alt="...">
-          
- * Aligning Images         
-          
-          <img src="..." class="rounded float-start" alt="...">
-          <img src="..." class="rounded float-end" alt="...">
-     
-      
-# INPUT GROUP  
-          
-  It can extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.
-          
-          
-          <div class="input-group ">
-            <span class="input-group-text" id="">
-            <input type="text" class="form-control" placeholder="" aria-describedby="">
-          </div>
-                  
-                    
-# MARGIN AND PADDING
-                  
-        1) m for classes that set margin                
-        2) p for classes that set padding
-                  
-  #### SIDES
-          
-          1) t - for classes that set margin-top or padding-top
+4) To add logo and brand name: Class: navbar-brand
 
-          2) b - for classes that set margin-bottom or padding-bottom
+5)To create a hamburger button which is used to toggle a specific item: Class:navbar-toggler-icon
 
-          3) s - (start) for classes that set margin-left or padding-left 
+6) Inorder to collapse it on smaller screen:
 
-          4) e - (end) for classes that set margin-right or padding-right
+Class:navbar-collapse
 
-          5)  x - X-Axis
+1)To list them in smaller screen: Class: nav-item
 
-          6)  y - Y-Axis
+11) Hyperlink: nav-link
 
+Showcase:
 
-          
-          
- # FIFURES
-       
-    To display a content—like an image with an caption, consider using a <figure>.
-    
-          
-         <figure class="figure">
-         <img src= "..." class="figure-img img-fluid rounded">
-         <figcaption class="figure-caption">captions for an image</figcaption>
-         </figure>
+1)To create background use: Class:bg-dark
+
+2)To make the text visible and to style, configure its size:
               
        
        
