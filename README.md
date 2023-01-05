@@ -33,7 +33,7 @@
    
      <div class="d-flex p-2"></div>
      
- Note:display utilities to create a flexbox container and transform direct children elements into flex items.
+ Note:Display utilities to create a flexbox container and transform direct children elements into flex items.
  
  * FLEX DIRECTIONS
  
@@ -41,8 +41,24 @@
           <div class="d-flex justify-content-end">...</div>
           <div class="d-flex justify-content-center">...</div>
  
- 
   Note:Use justify-content utilities on flexbox containers to change the alignment of flex items on the main axis.
 
  
+ * ALIGN ITEMS
  
+          <div class="d-flex align-items-start">...</div>
+          <div class="d-flex align-items-end">...</div>
+          <div class="d-flex align-items-center">...</div>
+  
+  Note:Use align-items utilities on flexbox containers to change the alignment of flex items on the cross axis.
+  
+  
+  
+  
+  ###### Use the .flex-fill class to divide them into widths equal to their content while taking up all available horizontal space.
+  
+  
+         *  .flex-fill
+         *  .flex-sm-fill
+         *  .flex-md-fill
+         *  .flex-lg-fill
