@@ -75,12 +75,17 @@
           
  # FIGURE 
  
-To display a content—like an image with an caption, consider using a <figure>.
+   To display a content—like an image with an caption, consider using a <figure>.
           
          <figure class="figure">
          <img src="..." class="figure-img img-fluid rounded" alt="...">
          <figcaption class="figure-caption">captions for an image</figcaption>
          </figure>
+          
+          
+    
+       
+# INPUT GROUP    
           
           
           
